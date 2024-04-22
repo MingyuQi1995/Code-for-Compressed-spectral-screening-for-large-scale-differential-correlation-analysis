@@ -1,0 +1,16 @@
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: Matrix
+
+
+
+Loading required package: iterators
+Loading required package: iterators
+Loading required package: iterators
+Loading required package: parallel
+Loading required package: parallel
+Loading required package: parallel
+Error in unserialize(socklist[[n]]) : error reading from connection
+Calls: %dopar% ... recvOneData -> recvOneData.SOCKcluster -> unserialize
+Execution halted
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=81706316.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
